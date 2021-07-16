@@ -1,0 +1,25 @@
+*{
+    background-color:lightblue;
+}
+.fcc-btn {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+  }
+
+  .fcc-btn:hover {
+    background-color: #223094;
+  }
+
+
+  .fcc-btn2 {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+  }
+
+  .fcc-btn2:hover {
+    background-color: #223094;
+  }
