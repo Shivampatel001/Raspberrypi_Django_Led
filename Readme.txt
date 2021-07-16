@@ -1,0 +1,1 @@
+Connect the LED pin to GPIO pin number 8 and other pin to 5V supply pin on the raspberry pi .
